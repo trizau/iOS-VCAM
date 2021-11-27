@@ -1,6 +1,6 @@
 # iOS-VCAM
 苹果手机虚拟摄像头 iPhone virtual camera  
-可以替换 iOS 系统摄像头画面
+可以替换 iOS 系统摄像头画面. 其功能类似于OBS的一个插件：https://obsproject.com/forum/resources/obs-virtualcam.949/  
 它处于开发中，现阶段演示地址:  [Youtube Demo](https://youtu.be/tJGXZreAW8M)
 
 ## 生效软件
