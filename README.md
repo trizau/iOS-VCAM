@@ -1,4 +1,5 @@
 迁移至 https://github.com/trizau/iPhone-VCAM
+参与开发来加入
 
 # iOS-VCAM
 苹果手机虚拟摄像头 virtual camera for iOS  
