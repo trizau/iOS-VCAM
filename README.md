@@ -8,7 +8,7 @@
 
 - 开源时间？
   - 现在它还处于开发中，在开发的同时也在考虑是否开源问题
-  - 有什么疑问可以联系我：Discord: Trizau#1978、 [Telegram](https://t.me/Alice_160808)
+  - 有什么疑问可以联系我：Discord: Trizau#1978、 [Telegram](https://t.me/trizau)
 
 ## 生效软件
 使用时可随时通过快捷键 暂停/切换 替换
